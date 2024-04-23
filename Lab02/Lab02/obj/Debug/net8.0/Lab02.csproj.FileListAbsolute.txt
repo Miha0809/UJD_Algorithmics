@@ -1,0 +1,15 @@
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/bin/Debug/net8.0/Lab02
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/bin/Debug/net8.0/Lab02.deps.json
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/bin/Debug/net8.0/Lab02.runtimeconfig.json
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/bin/Debug/net8.0/Lab02.dll
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/bin/Debug/net8.0/Lab02.pdb
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/Lab02.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/Lab02.AssemblyInfoInputs.cache
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/Lab02.AssemblyInfo.cs
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/Lab02.csproj.CoreCompileInputs.cache
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/Lab02.sourcelink.json
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/Lab02.dll
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/refint/Lab02.dll
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/Lab02.pdb
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/Lab02.genruntimeconfig.cache
+/home/mark/Personal/Jana_Dlugosza/2 year/4 semestr/Algorithmics/Lab02/Lab02/obj/Debug/net8.0/ref/Lab02.dll
