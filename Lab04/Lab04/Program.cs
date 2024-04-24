@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Diagnostics.SymbolStore;
+
 static void Task1(int n) {
     if (n <= 0)
     {
@@ -135,5 +137,47 @@ static void Task10(int width)
         }
         
         Console.WriteLine(' ');
+    }
+}
+
+Task11(2);
+static void Task11(int n)
+{
+    Console.WriteLine("First: " + First(n));
+    
+    double First(int n)
+    {
+        if (n == 0)
+        {
+            return 0;
+        }
+        
+        var suma = (1 / Math.Pow(n, 2));
+
+        return suma + First(n - 1);
+    }
+
+    Console.WriteLine("Second: " + Second(n));
+
+    int Second(int n)
+    {
+        if (n == 0)
+        {
+            return 0;
+        }
+
+        return n + Second(n - 1);
+    }
+    
+    Console.WriteLine("Third: " + Third(n));
+
+    int Third(int n)
+    {
+        if (n < 0)
+        {
+            return 0;
+        }
+
+        return (2 * n) + Third(n - 1);
     }
 }
