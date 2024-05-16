@@ -31,7 +31,8 @@ static void Task2(int n)
 
 static void Task3(int n)
 {
-    if (n <= 0) return;
+    if (n <= 0)
+        return;
     Task3(n - 2);
     Task3(n - 3);
     Console.WriteLine(n);
