@@ -67,6 +67,9 @@ Console.WriteLine("Reverse Coctail: " + (endTimeCoctail - startTimeCoctail));
 // Task4
 Task4.Task4.Init();
 
+// Task5
+Task5.Task5.Init();
+
 void InitReverseArray(int[] numbers)
 {
   for (int i = 0, j = numbers.Length - 1; i < numbers.Length; i++, j--)
