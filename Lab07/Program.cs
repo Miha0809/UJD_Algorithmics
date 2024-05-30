@@ -10,6 +10,12 @@ Console.WriteLine(Reverse(stack));
 // Task2
 Task2.Task2.Init();
 
+// Task3
+Task3.Task3.Init();
+
+// Task7
+Task7.Task7.Init();
+
 static Stack<string> InputToStack(string text)
 {
     string[] words = text.Split(' ');
