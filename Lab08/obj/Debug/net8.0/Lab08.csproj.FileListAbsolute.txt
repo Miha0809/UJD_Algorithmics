@@ -1,0 +1,15 @@
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/bin/Debug/net8.0/Lab08
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/bin/Debug/net8.0/Lab08.deps.json
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/bin/Debug/net8.0/Lab08.runtimeconfig.json
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/bin/Debug/net8.0/Lab08.dll
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/bin/Debug/net8.0/Lab08.pdb
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/Lab08.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/Lab08.AssemblyInfoInputs.cache
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/Lab08.AssemblyInfo.cs
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/Lab08.csproj.CoreCompileInputs.cache
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/Lab08.sourcelink.json
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/Lab08.dll
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/refint/Lab08.dll
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/Lab08.pdb
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/Lab08.genruntimeconfig.cache
+/home/mark/Personal/UJD/2 year/4 semestr/Algorithmics/Lab08/obj/Debug/net8.0/ref/Lab08.dll
